@@ -1,0 +1,20 @@
+header {
+  background-color: #fff;
+}
+
+h1 {
+  color: green;
+}
+
+p {
+  color: blue;
+}
+
+body {
+  font-size: 20px;
+}
+body div {
+  font-size: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+}
